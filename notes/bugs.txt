@@ -1,1 +1,2 @@
-No known issues
+Duplicate tasks can be created
+Fixed: Added validation to prevent duplicate task entries
