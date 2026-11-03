@@ -1,5 +1,5 @@
 Add user authentication
 Add profile management
 
-Add notifications
+Add category-based notifications
 Add task priorities
