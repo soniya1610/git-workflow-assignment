@@ -1,1 +1,5 @@
 Task Management
+Search
+Search tasks by title
+Search tasks by category
+Search tasks by keyword
