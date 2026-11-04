@@ -1,9 +1,11 @@
 Task Management
-Search
+
+Search Tasks 
 Search tasks by title
 Search tasks by category
 Search tasks by keyword
-Reporting
+
+Reporting Tasks and details
 Report task statistics
 Report completed tasks
 Report pending tasks
