@@ -3,3 +3,7 @@ Search
 Search tasks by title
 Search tasks by category
 Search tasks by keyword
+Reporting
+Report task statistics
+Report completed tasks
+Report pending tasks
